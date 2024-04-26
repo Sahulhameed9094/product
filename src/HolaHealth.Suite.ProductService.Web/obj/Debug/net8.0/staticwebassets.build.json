@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sbh0FRFUed4gH+oTHJ1TkVFN0qvPejpB7OYkhtnZ4bU=",
+  "Source": "HolaHealth.Suite.ProductService.Web",
+  "BasePath": "_content/HolaHealth.Suite.ProductService.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

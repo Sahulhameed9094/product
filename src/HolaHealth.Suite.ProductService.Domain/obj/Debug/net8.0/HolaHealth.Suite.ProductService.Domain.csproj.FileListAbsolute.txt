@@ -1,0 +1,15 @@
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.deps.json
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.pdb
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.Shared.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.Shared.pdb
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.csproj.AssemblyReference.cache
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.AssemblyInfoInputs.cache
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.AssemblyInfo.cs
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.csproj.CoreCompileInputs.cache
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\HolaHeal.5F21CD3A.Up2Date
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\refint\HolaHealth.Suite.ProductService.Domain.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.pdb
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\obj\Debug\net8.0\ref\HolaHealth.Suite.ProductService.Domain.dll

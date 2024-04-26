@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aBj5JOcBkQ7tqVOvfUYiVU2HYsS5L2gnfCuUfTHMByg=",
+  "Source": "HolaHealth.Suite.ProductService.HttpApi.Host",
+  "BasePath": "_content/HolaHealth.Suite.ProductService.HttpApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

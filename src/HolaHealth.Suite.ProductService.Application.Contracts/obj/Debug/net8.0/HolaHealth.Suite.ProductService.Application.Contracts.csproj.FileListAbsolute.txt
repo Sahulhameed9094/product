@@ -1,0 +1,15 @@
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.deps.json
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.pdb
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.Shared.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\bin\Debug\net8.0\HolaHealth.Suite.ProductService.Domain.Shared.pdb
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.csproj.AssemblyReference.cache
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.AssemblyInfoInputs.cache
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.AssemblyInfo.cs
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\HolaHeal.02508F71.Up2Date
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\refint\HolaHealth.Suite.ProductService.Application.Contracts.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\HolaHealth.Suite.ProductService.Application.Contracts.pdb
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Application.Contracts\obj\Debug\net8.0\ref\HolaHealth.Suite.ProductService.Application.Contracts.dll

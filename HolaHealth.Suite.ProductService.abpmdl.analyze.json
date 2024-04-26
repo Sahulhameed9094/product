@@ -1,0 +1,169 @@
+{
+  "folders": {
+    "src": {},
+    "test": {}
+  },
+  "packages": {
+    "HolaHealth.Suite.ProductService.Domain.Shared": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.Domain.Shared/HolaHealth.Suite.ProductService.Domain.Shared.csproj",
+      "folder": "src",
+      "includes": {
+        "lib.domain.shared": {}
+      }      
+    },
+    "HolaHealth.Suite.ProductService.Domain": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.Domain/HolaHealth.Suite.ProductService.Domain.csproj",
+      "folder": "src",
+      "includes": {
+        "lib.domain": {}
+      },
+      "contents": {
+        "aggregates": {
+          "HolaHealth.Suite.ProductService.Products.Product": {
+            "keyType": "Guid",
+            "summary": "Represents a product.",
+            "collectionProperties": {},
+            "navigationProperties": {}
+          } 
+        },
+        "repositoryInterfaces": {
+          "HolaHealth.Suite.ProductService.Products.IProductRepository": {
+            "entity": {
+              "type": "HolaHealth.Suite.ProductService.Products.Product",
+              "package": "HolaHealth.Suite.ProductService.Domain"
+            }
+          }
+        }
+      }
+    },
+    "HolaHealth.Suite.ProductService.Application.Contracts": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.Application.Contracts/HolaHealth.Suite.ProductService.Application.Contracts.csproj",
+      "folder": "src",
+      "includes": {
+        "lib.application.contracts": {}
+      }
+    },
+    "HolaHealth.Suite.ProductService.Application": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.Application/HolaHealth.Suite.ProductService.Application.csproj",
+      "folder": "src",
+      "includes": {
+        "lib.application": {}
+      },
+      "contents": {
+        "applicationServices": {
+          "HolaHealth.Suite.ProductService.ProductAppService": {}
+        }
+      }
+    },
+    "HolaHealth.Suite.ProductService.EntityFrameworkCore": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.EntityFrameworkCore/HolaHealth.Suite.ProductService.EntityFrameworkCore.csproj",
+      "folder": "src",
+      "includes": {
+        "lib.ef": {}
+      },
+      "contents": {
+        "efDbContexts": {
+          "HolaHealth.Suite.ProductService.EntityFrameworkCore.ProductServiceDbContext": {
+            "entities": {
+              "HolaHealth.Suite.ProductService.Products.Product": {
+                "package": "HolaHealth.Suite.ProductService.Domain",
+                "dbSetPropertyOnDbContext": "Products",
+                "databaseTable": "Products" 
+              }
+            }
+          }
+        }
+      }
+    },
+    "HolaHealth.Suite.ProductService.HttpApi": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.HttpApi/HolaHealth.Suite.ProductService.HttpApi.csproj",
+      "folder": "src",
+      "includes": {
+        "lib.http-api": {}
+      },
+      "contents": {
+        "controllers": {
+          "HolaHealth.Suite.ProductService.Products.ProductController": {},
+          "HolaHealth.Suite.ProductService.Products.ProductPublicController": {}
+        }
+      }
+    },
+    "HolaHealth.Suite.ProductService.HttpApi.Client": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.HttpApi.Client/HolaHealth.Suite.ProductService.HttpApi.Client.csproj",
+      "folder": "src",
+      "includes": {
+        "lib.http-api-client": {}
+      }
+    },
+    "HolaHealth.Suite.ProductService.Web": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.Web/HolaHealth.Suite.ProductService.Web.csproj",
+      "folder": "src",
+      "includes": {
+        "lib.ui.mvc": {}
+      },
+      "contents": {
+        "mvcPages": {
+          "HolaHealth.Suite.ProductService.Web.Pages.Products.Index.cshtml": {},
+          "HolaHealth.Suite.ProductService.Web.Pages.Products.CreateModal.cshtml": {},
+          "HolaHealth.Suite.ProductService.Web.Pages.Products.EditModal.cshtml": {}
+        }
+      }
+    },
+    "HolaHealth.Suite.ProductService.Blazor": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.Blazor/HolaHealth.Suite.ProductService.Blazor.csproj",
+      "folder": "src",
+      "includes": {
+        "lib.ui.blazor": {}
+      }
+    },
+    "HolaHealth.Suite.ProductService.HttpApi.Host": {
+      "type": "dotnet-project",
+      "path": "src/HolaHealth.Suite.ProductService.HttpApi.Host/HolaHealth.Suite.ProductService.HttpApi.Host.csproj",
+      "folder": "src",
+      "includes": {
+        "host.http-api": {}
+      }
+    },
+    "HolaHealth.Suite.ProductService.TestBase": {
+      "type": "dotnet-project",
+      "path": "test/HolaHealth.Suite.ProductService.TestBase/HolaHealth.Suite.ProductService.TestBase.csproj",
+      "folder": "test",
+      "includes": {
+        "lib.test": {}
+      }
+    },
+    "HolaHealth.Suite.ProductService.Domain.Tests": {
+      "type": "dotnet-project",
+      "path": "test/HolaHealth.Suite.ProductService.Domain.Tests/HolaHealth.Suite.ProductService.Domain.Tests.csproj",
+      "folder": "test",
+      "includes": {
+        "lib.test": {}
+      }
+    },
+    "HolaHealth.Suite.ProductService.EntityFrameworkCore.Tests": {
+      "type": "dotnet-project",
+      "path": "test/HolaHealth.Suite.ProductService.EntityFrameworkCore.Tests/HolaHealth.Suite.ProductService.EntityFrameworkCore.Tests.csproj",
+      "folder": "test",
+      "includes": {
+        "lib.test": {}
+      }
+    },
+    "HolaHealth.Suite.ProductService.Application.Tests": {
+      "type": "dotnet-project",
+      "path": "test/HolaHealth.Suite.ProductService.Application.Tests/HolaHealth.Suite.ProductService.Application.Tests.csproj",
+      "folder": "test",
+      "includes": {
+        "lib.test": {}
+      }
+    }
+  }
+}

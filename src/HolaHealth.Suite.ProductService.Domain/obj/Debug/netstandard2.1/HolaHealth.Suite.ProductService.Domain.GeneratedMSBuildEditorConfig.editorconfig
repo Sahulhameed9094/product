@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = HolaHealth.Suite.ProductService
+build_property.ProjectDir = D:\Microservice\latest  03262024\HolaHealth.Suite\services\product\src\HolaHealth.Suite.ProductService.Domain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
